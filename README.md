@@ -12,6 +12,7 @@ Platform:
 Dependencies:
 * [axios](https://github.com/axios/axios)
 * [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
+* [uuid](https://www.npmjs.com/package/uuid)
 
 ## Project setup
 ```
