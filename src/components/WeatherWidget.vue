@@ -109,7 +109,7 @@ $primary-color: black;
 }
 
 .widget__icon_weather {
-    max-width: 50px;
+    max-width: 80px;
 }
 
 .widget__degrees {
